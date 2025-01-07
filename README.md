@@ -14,39 +14,31 @@ Having started coding daily since **February 2024** (first in Python, then in Ja
 
 ---
 
-### 🎾 Capstone Project: **Tennis Tournament Website**
+### 🎾 Projects 
 
-For my capstone project, I developed a **full-stack application** for an annual tennis tournament run by a friend:
+I have recently made two full-stack applications:
 
-- 🌐 **Frontend**: Built with **React** to display a dynamically populated draw and live scoring page.  
-- ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store historical player data and match results.  
-- 📊 **Features**:
-  - A **Head-to-Head Page** showcasing historical results between any two players.  
-  - Live updates for match scores.  
+-  **Tennis Tournament Website**: this app supports an annual tennis tournament run by a friend.
+      - 🌐 **Frontend**: Built with **React** to display a dynamically populated draw and live scoring page.  
+      - ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store historical player data and match results.  
+      - 📊 **Features**:
+              - A **Head-to-Head Page** showcasing historical results between any two players.  
+              - A dynamically-generated virtual **Honours Board** recording each year's winners and runner-up.
+      - Check out the client repository [here](https://github.com/baileyma/matt-bailey-capstone) and the server repository [here](https://github.com/baileyma/matt-bailey-capstone-backend).
 
-Feel free to check out the client repository [here](https://github.com/baileyma/matt-bailey-capstone) and the server repository [here](https://github.com/baileyma/matt-bailey-capstone-backend). 
+-  **Investment Performance Tracker**: this app helps users quickly and clearly see the XIRR (non-finance speak: actual returns after accounting for deposits/withdrawals) on all their investment accounts.
+      - 🌐 **Frontend**: Built with **React** with a component for each year for every account.  
+      - ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store all year-end balances and deposit/withdrawal transactions as well with back-end logic calculating the XIRR.  
+      - 📊 **Features**:
+              - An **Overview Page** comparing the actual returns of multiple investment accounts over many years.
+      - NB. This site is still in development. Whilst the Minimum Viable Product is showcased, validation and additional features are coming soon!
+      - Check out the repository [here](https://github.com/baileyma/investment-tracker).               
 
 ---
 
-### 🎾 Latest Project: **Investment Performance Tracker**
+### 🎾 Latest Project: 
 
 I am currently developing a **full-stack application** to help people track how well their savings/pension/investments are performing year-to-year.
-
-It can be extremely complicated to work out exactly how well your investments/savings/pension pots have performed in a given year. This is because during any one year, you are likely to be making multiple deposits into (or withdrawals out of) your accounts. For example, when trying to assess how well your pension provider is doing for you, the your regular payments into the pension make it hard for you to see what percentage return your provider achieved for you in a certain year. 
-
-To work out your actual returns each year (finance nerds would call it your 'Internal Rate of Return'), you need to have three things: your account balance on 1st January, your balance on 31st December, and all the deposits/withdrawals (both their values and the transaction date) that took place during the year. 
-
-In this app, you can upload these three things for all the accounts you have (maybe you have an ISA and a pension pot). You can also add in accounts belonging to friends and family and see whose investments are doing best! More importantly, you can keep an eye on your pension provider and how well they are actually doing for you! 
-
-For my capstone project, I developed  for an annual tennis tournament run by a friend:
-
-- 🌐 **Frontend**: Built with **React** to display a dynamically populated draw and live scoring page.  
-- ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store historical player data and match results.  
-- 📊 **Features**:
-  - A **Head-to-Head Page** showcasing historical results between any two players.  
-  - Live updates for match scores.  
-
-Feel free to check out the repository [here](https://github.com/baileyma/investment-tracker). 
 
 ---
 
