@@ -18,21 +18,25 @@ Having started coding daily since **February 2024** (first in Python, then in Ja
 
 I have recently made two full-stack applications:
 
--  **Tennis Tournament Website**: this app supports an annual tennis tournament run by a friend.
-      - 🌐 **Frontend**: Built with **React** to display a dynamically populated draw and live scoring page.  
-      - ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store historical player data and match results.  
-      - 📊 **Features**:
-              📊 A **Head-to-Head Page** showcasing historical results between any two players.  
-              📊 A dynamically-generated virtual **Honours Board** recording each year's winners and runner-up.
-      - Check out the client repository [here](https://github.com/baileyma/matt-bailey-capstone) and the server repository [here](https://github.com/baileyma/matt-bailey-capstone-backend).
+- **Tennis Tournament Website**: this app supports an annual tennis tournament run by a friend.
+  - 🌐 **Frontend**: Built with **React** to display a dynamically populated draw and live scoring page.  
+  - ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store historical player data and match results.  
+  - 📊 **Features**:  
+    - 🎾 **Head-to-Head Page**  
+      &nbsp;&nbsp;&nbsp;&nbsp;Showcasing historical results between any two players.  
+    - 🏆 **Honours Board**  
+      &nbsp;&nbsp;&nbsp;&nbsp;A dynamically-generated virtual board recording each year's winners and runner-up.
+  - Check out the client repository [here](https://github.com/baileyma/matt-bailey-capstone) and the server repository [here](https://github.com/baileyma/matt-bailey-capstone-backend).
 
--  **Investment Performance Tracker**: this app helps users quickly and clearly see the XIRR (non-finance speak: actual returns after accounting for deposits/withdrawals) on all their investment accounts.
-      - 🌐 **Frontend**: Built with **React** with a component for each year for every account.  
-      - ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store all year-end balances and deposit/withdrawal transactions as well with back-end logic calculating the XIRR.  
-      - 📊 **Features**:
-              📊 An **Overview Page** comparing the actual returns of multiple investment accounts over many years.
-      - NB. This site is still in development. Whilst the Minimum Viable Product is showcased, validation and additional features are coming soon!
-      - Check out the repository [here](https://github.com/baileyma/investment-tracker).               
+- **Investment Performance Tracker**: this app helps users quickly and clearly see the XIRR (non-finance speak: actual returns after accounting for deposits/withdrawals) on all their investment accounts.
+  - 🌐 **Frontend**: Built with **React** with a component for each year for every account.  
+  - ⚙️ **Backend**: Powered by **NodeJS** and **MySQL** to store all year-end balances and deposit/withdrawal transactions as well with back-end logic calculating the XIRR.  
+  - 📊 **Features**:  
+    - 📈 **Overview Page**  
+      &nbsp;&nbsp;&nbsp;&nbsp;Comparing the actual returns of multiple investment accounts over many years.
+  - NB. This site is still in development. Whilst the Minimum Viable Product is showcased, validation and additional features are coming soon!
+  - Check out the repository [here](https://github.com/baileyma/investment-tracker).
+             
 
 ---
 
