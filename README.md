@@ -36,13 +36,6 @@ I have recently made two full-stack applications:
       &nbsp;&nbsp;&nbsp;&nbsp;Comparing the actual returns of multiple investment accounts over many years.
   - NB. This site is still in development. Whilst the Minimum Viable Product is showcased, validation and additional features are coming soon!
   - Check out the repository [here](https://github.com/baileyma/investment-tracker).
-             
-
----
-
-### 🎾 Latest Project: 
-
-I am currently developing a **full-stack application** to help people track how well their savings/pension/investments are performing year-to-year.
 
 ---
 
